@@ -1,0 +1,12 @@
+[
+    {
+        "pengguna": "eddie",
+        "latihan": "Kursus speaking",
+        "status": "tidak"
+    },
+    {
+        "pengguna": "jing lu",
+        "latihan": "Kursus writing",
+        "status": "lulus"
+    }
+]

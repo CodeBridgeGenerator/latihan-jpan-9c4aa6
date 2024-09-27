@@ -1,0 +1,20 @@
+[
+    {
+        "nomborRuj": 1,
+        "tajuk": "Kursus speaking",
+        "kategori": "Bahasa",
+        "status": "Buka"
+    },
+    {
+        "nomborRuj": 2,
+        "tajuk": "Kursus writing",
+        "kategori": "Bahasa",
+        "status": "Buka"
+    },
+    {
+        "nomborRuj": 3,
+        "tajuk": "Kursus komputer",
+        "kategori": "Teknikal",
+        "status": "Tutup"
+    }
+]

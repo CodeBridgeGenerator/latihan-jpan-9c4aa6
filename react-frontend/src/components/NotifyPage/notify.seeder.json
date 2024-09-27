@@ -1,0 +1,20 @@
+[
+    {
+        "tajuk": "Kursus speaking",
+        "venue": "JPAN",
+        "tarikh": 45551,
+        "pengajar": "Zamri"
+    },
+    {
+        "tajuk": "Kursus writing",
+        "venue": "JTU",
+        "tarikh": 45552,
+        "pengajar": "Leon"
+    },
+    {
+        "tajuk": "Kursus komputer",
+        "venue": "DOA",
+        "tarikh": 45553,
+        "pengajar": "Ali"
+    }
+]
